@@ -1,0 +1,55 @@
+image: continuumio/miniconda3:latest
+
+stages:
+  - test
+  - build
+
+default:
+
+  before_script:
+    - export http_proxy=http://proxy.iea.org:8080
+    - export https_proxy=http://proxy.iea.org:8080
+    - conda init bash
+    - cat /opt/conda/ssl/cacert.pem >  ~/customcacert.pem
+    - cat /etc/gitlab-runner/certs/IEA-Root-CA.crt  >> ~/customcacert.pem
+    - conda config --set ssl_verify ~/customcacert.pem
+    - conda config --prepend channels https://python.iea.org/iea-channel
+    - conda env create -f environment-linux.yml
+    - cp iea_scraper/instance_backup.py iea_scraper/instance.py
+    - source activate .env39
+
+tests:
+  script:
+  - pip install .
+  - pytest tests/unit
+  only:
+  - develop
+
+wheel:
+  stage: build
+  script:
+  - pip install build
+  - python -m build
+  only:
+  - develop
+  artifacts:
+    paths:
+    - dist
+    - public
+
+pages:
+  script:
+  - pip install -U sphinx
+  - pip install sphinx-rtd-theme
+  - sphinx-build -b html docs public
+  - apt-get update -qy
+  - apt-get install -y lftp
+  - echo $FTPS_USER
+  - lftp ftp://$FTPS_USER:$FTPS_PWD@python.iea.org -e  "set ftp:ssl-force yes; set ftp:ssl-protect-data yes; set ssl:verify-certificate no; ls; mirror -R public doc/scrapers; ls;  exit;"
+
+  artifacts:
+    paths:
+    - public
+  only:
+  - develop
+  - master

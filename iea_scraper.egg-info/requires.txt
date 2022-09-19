@@ -1,0 +1,6 @@
+pyodbc
+sqlalchemy
+pandas>=1.0.
+xarray
+numpy
+click

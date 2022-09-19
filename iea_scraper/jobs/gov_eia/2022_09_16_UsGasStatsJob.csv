@@ -1,0 +1,31 @@
+local_date,Flow 2,Unit,Flow 3,Product,Country,Type,Source,Flow 1,Metric,Flow 4,data_frequency,source_frequency,Value,Export Date
+2022-09-06,Future Contract 1,$/MMBTU,1M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.145,2022-09-16 18:15:56.078047
+2022-09-06,Future Contract 2,$/MMBTU,2M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.212,2022-09-16 18:15:56.078047
+2022-09-06,Future Contract 3,$/MMBTU,3M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.367,2022-09-16 18:15:56.078047
+2022-09-06,Future Contract 4,$/MMBTU,4M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.458,2022-09-16 18:15:56.078047
+2022-09-06,Spot Price,$/MMBTU,Spot,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.52,2022-09-16 18:15:56.078047
+2022-09-07,Future Contract 1,$/MMBTU,1M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,7.842,2022-09-16 18:15:56.078047
+2022-09-07,Future Contract 2,$/MMBTU,2M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,7.901,2022-09-16 18:15:56.078047
+2022-09-07,Future Contract 3,$/MMBTU,3M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.035,2022-09-16 18:15:56.078047
+2022-09-07,Future Contract 4,$/MMBTU,4M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.115,2022-09-16 18:15:56.078047
+2022-09-07,Spot Price,$/MMBTU,Spot,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.12,2022-09-16 18:15:56.078047
+2022-09-08,Future Contract 1,$/MMBTU,1M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,7.915,2022-09-16 18:15:56.078047
+2022-09-08,Future Contract 2,$/MMBTU,2M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,7.971,2022-09-16 18:15:56.078047
+2022-09-08,Future Contract 3,$/MMBTU,3M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.102,2022-09-16 18:15:56.078047
+2022-09-08,Future Contract 4,$/MMBTU,4M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.196,2022-09-16 18:15:56.078047
+2022-09-08,Spot Price,$/MMBTU,Spot,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.27,2022-09-16 18:15:56.078047
+2022-09-09,Future Contract 1,$/MMBTU,1M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,7.996,2022-09-16 18:15:56.078047
+2022-09-09,Future Contract 2,$/MMBTU,2M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.044,2022-09-16 18:15:56.078047
+2022-09-09,Future Contract 3,$/MMBTU,3M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.183,2022-09-16 18:15:56.078047
+2022-09-09,Future Contract 4,$/MMBTU,4M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.278,2022-09-16 18:15:56.078047
+2022-09-09,Spot Price,$/MMBTU,Spot,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.31,2022-09-16 18:15:56.078047
+2022-09-12,Future Contract 1,$/MMBTU,1M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.249,2022-09-16 18:15:56.078047
+2022-09-12,Future Contract 2,$/MMBTU,2M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.287,2022-09-16 18:15:56.078047
+2022-09-12,Future Contract 3,$/MMBTU,3M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.42,2022-09-16 18:15:56.078047
+2022-09-12,Future Contract 4,$/MMBTU,4M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.517,2022-09-16 18:15:56.078047
+2022-09-12,Spot Price,$/MMBTU,Spot,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.2,2022-09-16 18:15:56.078047
+2022-09-13,Future Contract 1,$/MMBTU,1M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.284,2022-09-16 18:15:56.078047
+2022-09-13,Future Contract 2,$/MMBTU,2M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.334,2022-09-16 18:15:56.078047
+2022-09-13,Future Contract 3,$/MMBTU,3M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.477,2022-09-16 18:15:56.078047
+2022-09-13,Future Contract 4,$/MMBTU,4M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.573,2022-09-16 18:15:56.078047
+2022-09-13,Spot Price,$/MMBTU,Spot,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.49,2022-09-16 18:15:56.078047

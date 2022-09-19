@@ -1,0 +1,196 @@
+Eledatarights,code_source,code_metric,code_iso3,Public Rights,Main Source
+1,Entso-e,Demand,ALB,Yes,Yes
+2,Cammesa,Generation,ARG,Yes,Yes
+3,Cammesa,Prices,ARG,Yes,Yes
+4,Cammesa,Demand,ARG,Yes,Yes
+5,AEMO NEM,Demand,AUS,Yes,Yes
+6,AEMO NEM,Generation,AUS,Yes,Yes
+7,AEMO NEM,Prices,AUS,Yes,Yes
+8,AEMO WEM,Prices,AUS,Yes,Yes
+9,AEMO WEM,Demand,AUS,Yes,Yes
+10,AEMO WEM,Generation Total,AUS,Yes,Yes
+11,Entso-e,Prices,AUT,Yes,Yes
+12,Entso-e,Generation,AUT,Yes,Yes
+13,Entso-e,Demand,AUT,Yes,Yes
+14,Entso-e,Generation,BEL,Yes,Yes
+15,Entso-e,Demand,BEL,Yes,Yes
+16,Entso-e,Prices,BEL,Yes,Yes
+17,Entso-e,Prices,BGR,Yes,Yes
+18,Entso-e,Generation,BGR,Yes,Yes
+19,Entso-e,Demand,BGR,Yes,Yes
+20,Entso-e,Generation,BIH,Yes,Yes
+21,Entso-e,Demand,BIH,Yes,Yes
+22,CNDC.bo,Prices,BOL,Yes,Yes
+23,CNDC.bo,Generation,BOL,Yes,Yes
+24,CNDC.bo,Demand,BOL,Yes,Yes
+25,ONS,Generation,BRA,Yes,Yes
+26,ONS,Demand,BRA,Yes,Yes
+27,Entso-e,Prices,CHE,Yes,Yes
+28,Entso-e,Demand,CHE,Yes,Yes
+29,Entso-e,Generation,CHE,Yes,Yes
+30,Coordinador Electrico Nacional,Generation,CHL,Yes,Yes
+31,Coordinador Electrico Nacional,Demand,CHL,Yes,Yes
+32,Coordinador Electrico Nacional,Prices,CHL,Yes,Yes
+33,xm.com.co,Generation,COL,Yes,Yes
+34,xm.com.co,Demand,COL,Yes,Yes
+35,CENCE,Generation,CRI,Yes,Yes
+36,CENCE,Demand,CRI,Yes,Yes
+37,Entso-e,Demand,CYP,Yes,Yes
+38,Entso-e,Generation,CYP,Yes,Yes
+39,Entso-e,Prices,CZE,Yes,Yes
+40,Entso-e,Generation,CZE,Yes,Yes
+41,Entso-e,Demand,CZE,Yes,Yes
+42,Entso-e,Prices,DEU,Yes,Yes
+43,Entso-e,Demand,DEU,Yes,Yes
+44,Entso-e,Generation,DEU,Yes,Yes
+45,Entso-e,Demand,DNK,Yes,Yes
+46,Entso-e,Generation,DNK,Yes,Yes
+47,Entso-e,Prices,DNK,Yes,Yes
+48,Entso-e,Demand,ESP,Yes,Yes
+49,Entso-e,Prices,ESP,Yes,Yes
+50,Entso-e,Generation,ESP,Yes,Yes
+51,Entso-e,Demand,EST,Yes,Yes
+52,Entso-e,Prices,EST,Yes,Yes
+53,Entso-e,Generation,EST,Yes,Yes
+54,Entso-e,Prices,FIN,Yes,Yes
+55,Entso-e,Demand,FIN,Yes,Yes
+56,Entso-e,Generation,FIN,Yes,Yes
+57,Entso-e,Demand,FRA,Yes,Yes
+58,Entso-e,Prices,FRA,Yes,Yes
+59,Entso-e,Generation,FRA,Yes,Yes
+60,Elexon - BMRS,Generation,GBR,Yes,Yes
+61,Elexon - BMRS,Demand,GBR,Yes,Yes
+62,Elexon - BMRS,Prices,GBR,Yes,Yes
+63,Entso-e,Demand,GBR,Yes,No
+64,Entso-e,Generation,GBR,Yes,No
+65,Entso-e,Prices,GBR,Yes,No
+66,Entso-e,Prices,GRC,Yes,Yes
+67,Entso-e,Demand,GRC,Yes,Yes
+68,Entso-e,Generation,GRC,Yes,Yes
+69,Entso-e,Generation,HRV,Yes,Yes
+70,Entso-e,Prices,HRV,Yes,Yes
+71,Entso-e,Demand,HRV,Yes,Yes
+72,Entso-e,Demand,HUN,Yes,Yes
+73,Entso-e,Generation,HUN,Yes,Yes
+74,Entso-e,Prices,HUN,Yes,Yes
+171,Merit India,Demand,IND,Yes,Yes
+172,Merit India,Generation,IND,Yes,Yes
+75,Entso-e,Demand,IRL,Yes,Yes
+76,Entso-e,Prices,IRL,Yes,Yes
+77,Entso-e,Generation,IRL,Yes,Yes
+78,Sem-o,Generation,IRL,Yes,No
+79,Sem-o,Demand,IRL,Yes,No
+80,IREMA,Demand,IRN,Yes,Yes
+81,IREMA,Prices,IRN,Yes,Yes
+82,Entso-e,Prices,ITA,Yes,Yes
+83,Entso-e,Demand,ITA,Yes,Yes
+84,Entso-e,Generation,ITA,Yes,Yes
+85,jepx.org,Prices,JPN,Yes,Yes
+86,Tepco,Generation,JPN,Yes,Yes
+87,Tepco,Demand,JPN,Yes,Yes
+175,Tohoku-Epco,Generation,JPN,Yes,Yes
+176,Chubu,Generation,JPN,Yes,Yes
+177,Energia,Generation,JPN,Yes,Yes
+178,Hepco,Generation,JPN,Yes,Yes
+179,Rikuden,Generation,JPN,Yes,Yes
+180,Okiden,Generation,JPN,Yes,Yes
+181,Kyuden,Generation,JPN,Yes,Yes
+182,Kansai TD,Generation,JPN,Yes,Yes
+183,Yonden,Generation,JPN,Yes,Yes
+184,Tohoku-Epco,Demand,JPN,Yes,Yes
+185,Chubu,Demand,JPN,Yes,Yes
+186,Energia,Demand,JPN,Yes,Yes
+187,Hepco,Demand,JPN,Yes,Yes
+188,Rikuden,Demand,JPN,Yes,Yes
+189,Okiden,Demand,JPN,Yes,Yes
+190,Kyuden,Demand,JPN,Yes,Yes
+191,Kansai TD,Demand,JPN,Yes,Yes
+192,Yonden,Demand,JPN,Yes,Yes
+88,Entso-e,Generation,LTU,Yes,Yes
+89,Entso-e,Prices,LTU,Yes,Yes
+90,Entso-e,Demand,LTU,Yes,Yes
+91,Entso-e,Prices,LUX,Yes,Yes
+92,Entso-e,Generation,LUX,Yes,Yes
+93,Entso-e,Demand,LUX,Yes,Yes
+94,Entso-e,Prices,LVA,Yes,Yes
+95,Entso-e,Demand,LVA,Yes,Yes
+96,Entso-e,Generation,LVA,Yes,Yes
+97,ENERGO,Demand,MDA,Yes,Yes
+98,ENERGO,Generation,MDA,Yes,Yes
+99,cenace.gob.mx,Demand,MEX,Yes,Yes
+100,cenace.gob.mx,Generation,MEX,Yes,Yes
+101,cenace.gob.mx,Generation Total,MEX,Yes,Yes
+102,cenace.gob.mx,Prices,MEX,Yes,Yes
+103,Entso-e,Generation,MKD,Yes,Yes
+104,Entso-e,Demand,MKD,Yes,Yes
+105,Entso-e,Demand,MNE,Yes,Yes
+106,Entso-e,Generation,MNE,Yes,Yes
+107,GSO,Demand,MYS,Yes,Yes
+108,GSO,Generation,MYS,Yes,Yes
+109,Transmission Company of Nigeria,Generation,NGA,Yes,Yes
+110,Transmission Company of Nigeria,Demand,NGA,Yes,Yes
+111,Entso-e,Generation,NLD,Yes,Yes
+112,Entso-e,Prices,NLD,Yes,Yes
+113,Entso-e,Demand,NLD,Yes,Yes
+114,Entso-e,Demand,NOR,Yes,Yes
+115,Entso-e,Generation,NOR,Yes,Yes
+116,Entso-e,Prices,NOR,Yes,Yes
+117,transpower.co.nz,Demand,NZL,No,Yes
+118,transpower.co.nz,Generation,NZL,No,Yes
+119,coes.pe,Demand,PER,Yes,Yes
+120,coes.pe,Generation,PER,Yes,Yes
+121,IEMOP,Demand,PHL,Yes,Yes
+122,IEMOP,Prices,PHL,Yes,Yes
+123,IEMOP,Generation,PHL,Yes,Yes
+124,Entso-e,Demand,POL,Yes,Yes
+125,Entso-e,Generation,POL,Yes,Yes
+126,Entso-e,Prices,POL,Yes,Yes
+127,Entso-e,Prices,PRT,Yes,Yes
+128,Entso-e,Demand,PRT,Yes,Yes
+129,Entso-e,Generation,PRT,Yes,Yes
+130,Entso-e,Demand,ROU,Yes,Yes
+131,Entso-e,Generation,ROU,Yes,Yes
+132,Entso-e,Prices,ROU,Yes,Yes
+133,ATS,Generation Total,RUS,No,No
+134,ATS,Prices,RUS,No,No
+135,ATS,Demand,RUS,No,No
+136,ATS ENERGO,Demand,RUS,Yes,Yes
+137,ATS ENERGO,Generation,RUS,Yes,Yes
+138,ATS ENERGO,Prices,RUS,Yes,Yes
+139,Energy Market Company,Demand,SGP,Yes,Yes
+140,Energy Market Company,Prices,SGP,Yes,Yes
+141,Entso-e,Generation,SRB,Yes,Yes
+142,Entso-e,Demand,SRB,Yes,Yes
+143,Entso-e,Prices,SRB,Yes,Yes
+144,Entso-e,Prices,SVK,Yes,Yes
+145,Entso-e,Generation,SVK,Yes,Yes
+146,Entso-e,Demand,SVK,Yes,Yes
+147,Entso-e,Generation,SVN,Yes,Yes
+148,Entso-e,Demand,SVN,Yes,Yes
+149,Entso-e,Prices,SVN,Yes,Yes
+150,Entso-e,Demand,SWE,Yes,Yes
+151,Entso-e,Generation,SWE,Yes,Yes
+152,Entso-e,Prices,SWE,Yes,Yes
+153,EPIAS,Prices,TUR,Yes,Yes
+154,EPIAS,Demand,TUR,Yes,Yes
+155,EPIAS,Generation,TUR,Yes,Yes
+173,Taipower,Demand,TWN,Yes,Yes
+174,Taipower,Generation,TWN,Yes,Yes
+156,UKRENERGO,Generation,UKR,Yes,Yes
+157,UKRENERGO,Demand,UKR,Yes,Yes
+158,Entso-e,Demand,UKR,Yes,No
+159,Entso-e,Prices,UKR,Yes,Yes
+160,Entso-e,Generation,UKR,Yes,No
+161,CAISO,Prices,USA,Yes,Yes
+162,EIA,Demand,USA,Yes,Yes
+163,EIA,Generation,USA,Yes,Yes
+164,ERCOT,Prices,USA,Yes,Yes
+165,MISO,Prices,USA,Yes,Yes
+166,NYISO,Prices,USA,Yes,Yes
+167,PJM,Prices,USA,Yes,Yes
+168,Test,Demand,USA,No,No
+169,Eksom,Generation,ZAF,Yes,Yes
+170,Eksom,Demand,ZAF,Yes,Yes
+171,ADME,Demand,URY,Yes,Yes
+172,ADME,Generation,URY,Yes,Yes
+173,ADME,Prices,URY,Yes,Yes

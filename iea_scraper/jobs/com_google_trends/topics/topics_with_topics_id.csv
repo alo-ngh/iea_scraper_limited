@@ -1,0 +1,47 @@
+Idea,Group,Topic,Topic type,Category,Used,topic_id
+wind,electricity,wind power,Topic,0,Y,/m/01phdl
+solar,electricity,solar energy,Topic,0,Y,/m/06xbd
+coal,electricity,coal,Form of rock,0,Y,/m/01sy7
+hydroelectricity,electricity,hydroelectricity,Topic,0,Y,/m/021m_w
+nuclear,electricity,nuclear power,Topic,0,Y,/m/05k97
+geothermal,electricity,geothermal power,Topic,0,Y,/m/05_5qkd
+geothermal,heat,geothermal heating,Topic,0,Y,/m/04m7gb
+natural gas,electricity,Natural Gas,Topic,0,Y,/m/05k4k
+Oil,fuel ,Oil,Topic,0,Y,/m/0bp_wy
+Petroleum,fuel,petroleum,Topic,0,Y,/m/05r_j
+electricity,fuel,electricity,Topic,0,Y,/m/02lts
+Electric Vehicle,transport,electric vehicle,Topic,1380,Y,/m/01pmdg
+Hybrid vehicle,transport,Hybrid vehicle,Topic,810,Y,/m/014rrf
+Charging Stations,transport,Charging Station,Topic,0,Y,/m/03bxwvx
+Hydrogen,fuel,Hydrogen,Chemical element,0,Y,/m/02h9byz
+Batteries,electricity,Electric Battery,Topic,0,Y,/m/01c0z
+Dishwasher,Shopping,Dishwasher,Topic,0,Y,/m/0ky7b
+Washing machine,Shopping,Washing machine,Topic,0,Y,/m/0174k2
+Air conditioner,Shopping,Air conditioner,Topic,0,Y,/g/1yqccwk9n
+Refrigerator,Shopping,Refrigerator,Topic,0,Y,/m/040b_t
+Freezer,Shopping,Freezer,Topic,0,Y,/g/122brstn
+Clothes dryer,Shopping,Clothes dryer,Topic,0,Y,/m/01v2xz
+Induction range,Shopping,Induction range,Cookware and bakeware,0,Y,/m/04mlf2
+LED lamp,Shopping,LED lamp,Topic,0,Y,/m/02pwryg
+External wall insulation,Shopping,External wall insulation,Topic,0,Y,/m/04056p_
+Insulated glazing,Shopping,Insulated glazing,Topic,0,Y,/m/02r3pn
+Home automation,Shopping,Home automation,Topic,0,Y,/m/01987_
+Smart meter,Shopping,Smart meter,Topic,0,Y,/m/0b5npj
+Bicycle,Shopping,Bicycle,Topic,0,Y,/m/0199g
+Electric bicycle,Transport,Electric bicycle,Topic,0,Y,/m/0bh99y_
+Electric scooter,Transport,Electric scooter,Topic,0,Y,/g/122drzlt
+Heat pump,Shopping,Heat pump,Topic,0,Y,/m/0hw90
+Boiler,Shopping,Boiler,Topic,0,Y,/m/017ssg
+Ventilation,Shopping,Ventilation,Topic,0,Y,/m/02m1dy
+electrification,electricity,electrification,Topic,0,Y,/m/02p5v8
+fuel cell,technology,fuel cell,Topic,0,Y,/m/033bk
+carbon capture and storage,technology,carbon capture and storage,Topic,0,Y,/m/09v0_v
+"heating, ventilation, and air conditioning",Shopping,"heating, ventilation, and air conditioning",Topic,0,Y,/m/0fqzp
+Flight,transport,Flight,Topic,0,Y,/m/01515d
+Public transport,transport,Public transport,Transit service type,0,Y,/m/05zdp
+Car,transport,Car,Transportation mode,0,Y,/m/0k4j
+Sport utility vehicle,transport,Sport utility vehicle,Vehicle classification,0,Y,/m/0ctrp
+Offshore wind,electricity,Offshore wind power,Topic,0,Y,/m/080n5zx
+LNG,fuel,Liquefied natural gas,Topic,0,Y,/m/03fj_6
+Train,transport,Train,Means of Transportation,0,Y,/m/07jdr
+Carpool,transport,Carpool,Topic,0,Y,/m/021vqb

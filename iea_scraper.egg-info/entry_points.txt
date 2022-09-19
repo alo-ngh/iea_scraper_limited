@@ -1,0 +1,3 @@
+[console_scripts]
+iea_scraper = iea_scraper.cli:cli
+

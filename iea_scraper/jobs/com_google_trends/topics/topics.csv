@@ -1,0 +1,52 @@
+Idea,Group,Topic,Topic type,Category,Used
+wind,electricity,wind power,Topic,0,Y
+solar,electricity,solar energy,Topic,0,Y
+coal,electricity,coal,Form of rock,0,Y
+hydroelectricity,electricity,hydroelectricity,Topic,0,Y
+nuclear,electricity,nuclear power,Topic,0,Y
+geothermal,electricity,geothermal power,Topic,0,Y
+geothermal,heat,geothermal heating,Topic,0,Y
+natural gas,electricity,Natural Gas,Topic,0,Y
+Oil,fuel ,Oil,Topic,0,Y
+Petroleum,fuel,petroleum,Topic,0,Y
+electricity,fuel,electricity,Topic,0,Y
+Electric Vehicle,transport,electric vehicle,Topic,1380,Y
+Hybrid vehicle,transport,Hybrid vehicle,Topic,810,Y
+Charging Stations,transport,Charging Station,Topic,0,Y
+Hydrogen,fuel,Hydrogen,Chemical element,0,Y
+Batteries,electricity,Electric Battery,Topic,0,Y
+Dishwasher,Shopping,Dishwasher,Topic,0,Y
+Washing machine,Shopping,Washing machine,Topic,0,Y
+Air conditioner,Shopping,Air conditioner,Topic,0,Y
+Refrigerator,Shopping,Refrigerator,Topic,0,Y
+Clothes dryer,Shopping,Clothes dryer,Topic,0,Y
+Induction range,Shopping,Induction range,Cooking appliance,0,Y
+LED lamp,Shopping,LED lamp,Topic,0,Y
+Cavity wall insulation,Shopping,Cavity wall insulation,Topic,0,N
+External wall insulation,Shopping,External wall insulation,Topic,0,Y
+Insulated glazing,Shopping,Insulated glazing,Topic,0,Y
+Home automation,Shopping,Home automation,Topic,0,Y
+ISO 50001,Shopping,ISO 50001,Topic,0,N
+Building automation,Shopping,Building automation,Topic,0,N
+Smart meter,Shopping,Smart meter,Topic,0,Y
+Bicycle,Shopping,Bicycle,Topic,0,Y
+Electric bicycle,Transport,Electric bicycle,Topic,0,Y
+Electric scooter,Transport,Electric scooter,Topic,0,Y
+Heat pump,Shopping,Heat pump,Topic,0,Y
+Solar panels,Shopping,solar panel,Topic,0,N
+Boiler,Shopping,Boiler,Topic,0,Y
+Ventilation,Shopping,Ventilation,Topic,0,Y
+electrification,electricity,electrification,Topic,0,Y
+fuel cell,technology,fuel cell,Topic,0,Y
+carbon capture and storage,technology,carbon capture and storage,Topic,0,Y
+carbon capture and utilization,technology,carbon capture and utilization,Topic,0,N
+"heating, ventilation, and air conditioning",Shopping,"heating, ventilation, and air conditioning",Topic,0,Y
+Flight,transport,Flight,Topic,0,Y
+Public transport,transport,Public transport,Transit service type,0,Y
+Car,transport,Car,Transportation mode,0,Y
+Sport utility vehicle,transport,Sport utility vehicle,Vehicle classification,0,Y
+Offshore wind,electricity,Offshore wind power,Topic,0,Y
+LNG,fuel,Liquefied natural gas ,Topic,0,Y
+Train,transport,Train,Means of Transportation,0,Y
+Freezer,Shopping,Freezer,Topic,0,Y
+Carpool,transport,Carpool,Topic,0,Y

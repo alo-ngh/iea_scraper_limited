@@ -1,0 +1,5 @@
+EXT_DB_STR = ''
+ETL_DB_STR = "*"
+API_END_POINT = "*"
+ARGUS_USERNAME = "*"
+ARGUS_PASSWORD = "*"

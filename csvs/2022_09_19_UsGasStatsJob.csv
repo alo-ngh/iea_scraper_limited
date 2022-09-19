@@ -1,0 +1,70 @@
+local_date,Flow 2,Unit,Flow 3,Product,Country,Type,Source,Flow 1,Metric,Flow 4,data_frequency,source_frequency,Value,Export Date
+2021-09-08,,BCF,CAN,Pipeline natural gas,USA,Observed,PointLogic,Entry,Trade,,weekly,weekly,4.7,2022-09-19 11:05:58.396325
+2021-09-08,,BCF,LNG Partner,Liquefied natural gas,USA,Observed,PointLogic,Entry,Trade,,weekly,weekly,11.2,2022-09-19 11:05:58.396325
+2021-09-08,,BCF,MEX,Pipeline natural gas,USA,Observed,PointLogic,Entry,Trade,,weekly,weekly,5.7,2022-09-19 11:05:58.396325
+2021-09-08,,BCF,Marketed production,Total natural gas,USA,Observed,PointLogic,,Production,,weekly,weekly,105.7,2022-09-19 11:05:58.396325
+2021-09-08,,BCF,,Total natural gas,USA,Observed,PointLogic,Industry,Demand,,weekly,weekly,20.6,2022-09-19 11:05:58.396325
+2021-09-08,,BCF,,Total natural gas,USA,Observed,PointLogic,Power and heat generation,Demand,,weekly,weekly,34.8,2022-09-19 11:05:58.396325
+2021-09-08,,BCF,,Total natural gas,USA,Observed,PointLogic,Residential and commercial,Demand,,weekly,weekly,8.5,2022-09-19 11:05:58.396325
+2021-09-08,,BCF,,Total natural gas,USA,Observed,PointLogic,Transport (including pipeline),Demand,,weekly,weekly,6.2,2022-09-19 11:05:58.396325
+2022-09-01,,BCF,CAN,Pipeline natural gas,USA,Observed,PointLogic,Entry,Trade,,weekly,weekly,5.8,2022-09-19 11:05:58.396325
+2022-09-01,,BCF,LNG Partner,Liquefied natural gas,USA,Observed,PointLogic,Entry,Trade,,weekly,weekly,11.299999999999999,2022-09-19 11:05:58.396325
+2022-09-01,,BCF,MEX,Pipeline natural gas,USA,Observed,PointLogic,Entry,Trade,,weekly,weekly,5.4,2022-09-19 11:05:58.396325
+2022-09-01,,BCF,Marketed production,Total natural gas,USA,Observed,PointLogic,,Production,,weekly,weekly,111.4,2022-09-19 11:05:58.396325
+2022-09-01,,BCF,,Total natural gas,USA,Observed,PointLogic,Industry,Demand,,weekly,weekly,21.6,2022-09-19 11:05:58.396325
+2022-09-01,,BCF,,Total natural gas,USA,Observed,PointLogic,Power and heat generation,Demand,,weekly,weekly,40.1,2022-09-19 11:05:58.396325
+2022-09-01,,BCF,,Total natural gas,USA,Observed,PointLogic,Residential and commercial,Demand,,weekly,weekly,8.4,2022-09-19 11:05:58.396325
+2022-09-01,,BCF,,Total natural gas,USA,Observed,PointLogic,Transport (including pipeline),Demand,,weekly,weekly,6.7,2022-09-19 11:05:58.396325
+2022-09-08,Average Natural Gas Futures Price,$/MMBtu,1M,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",October contract,Prices,USD,daily,weekly,7.915,2022-09-19 11:05:58.396325
+2022-09-08,Average Natural Gas Futures Price,$/MMBtu,2M,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",November contract,Prices,USD,daily,weekly,7.971,2022-09-19 11:05:58.396325
+2022-09-08,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Chicago,Prices,USD,daily,weekly,7.49,2022-09-19 11:05:58.396325
+2022-09-08,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Henry Hub,Prices,USD,daily,weekly,8.13,2022-09-19 11:05:58.396325
+2022-09-08,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",New York,Prices,USD,daily,weekly,7.31,2022-09-19 11:05:58.396325
+2022-09-08,"Avg. of NGI's reported prices for: Malin, PG&E Citygate, and Southern California Border Avg.",$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Cal. Comp. Avg.*,Prices,USD,daily,weekly,9.45,2022-09-19 11:05:58.396325
+2022-09-08,,BCF,CAN,Pipeline natural gas,USA,Observed,PointLogic,Entry,Trade,,weekly,weekly,5.3,2022-09-19 11:05:58.396325
+2022-09-08,,BCF,LNG Partner,Liquefied natural gas,USA,Observed,PointLogic,Entry,Trade,,weekly,weekly,11.299999999999999,2022-09-19 11:05:58.396325
+2022-09-08,,BCF,MEX,Pipeline natural gas,USA,Observed,PointLogic,Exit,Trade,,weekly,weekly,5.6,2022-09-19 11:05:58.396325
+2022-09-08,,BCF,Marketed production,Total natural gas,USA,Observed,PointLogic,,Production,,weekly,weekly,111.0,2022-09-19 11:05:58.396325
+2022-09-08,,BCF,,Total natural gas,USA,Observed,PointLogic,Industry,Demand,,weekly,weekly,21.8,2022-09-19 11:05:58.396325
+2022-09-08,,BCF,,Total natural gas,USA,Observed,PointLogic,Power and heat generation,Demand,,weekly,weekly,36.8,2022-09-19 11:05:58.396325
+2022-09-08,,BCF,,Total natural gas,USA,Observed,PointLogic,Residential and commercial,Demand,,weekly,weekly,8.9,2022-09-19 11:05:58.396325
+2022-09-08,,BCF,,Total natural gas,USA,Observed,PointLogic,Transport (including pipeline),Demand,,weekly,weekly,6.7,2022-09-19 11:05:58.396325
+2022-09-09,Average Natural Gas Futures Price,$/MMBtu,1M,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",October contract,Prices,USD,daily,weekly,7.996,2022-09-19 11:05:58.396325
+2022-09-09,Average Natural Gas Futures Price,$/MMBtu,2M,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",November contract,Prices,USD,daily,weekly,8.044,2022-09-19 11:05:58.396325
+2022-09-09,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Chicago,Prices,USD,daily,weekly,7.38,2022-09-19 11:05:58.396325
+2022-09-09,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Henry Hub,Prices,USD,daily,weekly,8.15,2022-09-19 11:05:58.396325
+2022-09-09,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",New York,Prices,USD,daily,weekly,7.11,2022-09-19 11:05:58.396325
+2022-09-09,"Avg. of NGI's reported prices for: Malin, PG&E Citygate, and Southern California Border Avg.",$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Cal. Comp. Avg.*,Prices,USD,daily,weekly,8.21,2022-09-19 11:05:58.396325
+2022-09-09,Future Contract 1,$/MMBTU,1M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,7.996,2022-09-19 11:05:58.396325
+2022-09-09,Future Contract 2,$/MMBTU,2M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.044,2022-09-19 11:05:58.396325
+2022-09-09,Future Contract 3,$/MMBTU,3M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.183,2022-09-19 11:05:58.396325
+2022-09-09,Future Contract 4,$/MMBTU,4M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.278,2022-09-19 11:05:58.396325
+2022-09-09,Spot Price,$/MMBTU,Spot,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.31,2022-09-19 11:05:58.396325
+2022-09-12,Average Natural Gas Futures Price,$/MMBtu,1M,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",October contract,Prices,USD,daily,weekly,8.249,2022-09-19 11:05:58.396325
+2022-09-12,Average Natural Gas Futures Price,$/MMBtu,2M,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",November contract,Prices,USD,daily,weekly,8.287,2022-09-19 11:05:58.396325
+2022-09-12,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Chicago,Prices,USD,daily,weekly,7.6,2022-09-19 11:05:58.396325
+2022-09-12,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Henry Hub,Prices,USD,daily,weekly,8.12,2022-09-19 11:05:58.396325
+2022-09-12,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",New York,Prices,USD,daily,weekly,7.48,2022-09-19 11:05:58.396325
+2022-09-12,"Avg. of NGI's reported prices for: Malin, PG&E Citygate, and Southern California Border Avg.",$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Cal. Comp. Avg.*,Prices,USD,daily,weekly,8.54,2022-09-19 11:05:58.396325
+2022-09-12,Future Contract 1,$/MMBTU,1M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.249,2022-09-19 11:05:58.396325
+2022-09-12,Future Contract 2,$/MMBTU,2M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.287,2022-09-19 11:05:58.396325
+2022-09-12,Future Contract 3,$/MMBTU,3M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.42,2022-09-19 11:05:58.396325
+2022-09-12,Future Contract 4,$/MMBTU,4M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.517,2022-09-19 11:05:58.396325
+2022-09-12,Spot Price,$/MMBTU,Spot,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.2,2022-09-19 11:05:58.396325
+2022-09-13,Average Natural Gas Futures Price,$/MMBtu,1M,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",October contract,Prices,USD,daily,weekly,8.284,2022-09-19 11:05:58.396325
+2022-09-13,Average Natural Gas Futures Price,$/MMBtu,2M,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",November contract,Prices,USD,daily,weekly,8.334,2022-09-19 11:05:58.396325
+2022-09-13,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Chicago,Prices,USD,daily,weekly,7.76,2022-09-19 11:05:58.396325
+2022-09-13,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Henry Hub,Prices,USD,daily,weekly,8.39,2022-09-19 11:05:58.396325
+2022-09-13,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",New York,Prices,USD,daily,weekly,7.76,2022-09-19 11:05:58.396325
+2022-09-13,"Avg. of NGI's reported prices for: Malin, PG&E Citygate, and Southern California Border Avg.",$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Cal. Comp. Avg.*,Prices,USD,daily,weekly,8.64,2022-09-19 11:05:58.396325
+2022-09-13,Future Contract 1,$/MMBTU,1M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.284,2022-09-19 11:05:58.396325
+2022-09-13,Future Contract 2,$/MMBTU,2M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.334,2022-09-19 11:05:58.396325
+2022-09-13,Future Contract 3,$/MMBTU,3M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.477,2022-09-19 11:05:58.396325
+2022-09-13,Future Contract 4,$/MMBTU,4M,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.573,2022-09-19 11:05:58.396325
+2022-09-13,Spot Price,$/MMBTU,Spot,Gaseous natural gas,USA,Observed,U.S. Energy Information Administration - eia,Henry Hub,Prices,USD,daily,daily,8.49,2022-09-19 11:05:58.396325
+2022-09-14,Average Natural Gas Futures Price,$/MMBtu,1M,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",October contract,Prices,USD,daily,weekly,9.114,2022-09-19 11:05:58.396325
+2022-09-14,Average Natural Gas Futures Price,$/MMBtu,2M,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",November contract,Prices,USD,daily,weekly,9.167,2022-09-19 11:05:58.396325
+2022-09-14,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Chicago,Prices,USD,daily,weekly,8.08,2022-09-19 11:05:58.396325
+2022-09-14,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Henry Hub,Prices,USD,daily,weekly,8.69,2022-09-19 11:05:58.396325
+2022-09-14,Average Natural Gas Spot Price,$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",New York,Prices,USD,daily,weekly,7.8,2022-09-19 11:05:58.396325
+2022-09-14,"Avg. of NGI's reported prices for: Malin, PG&E Citygate, and Southern California Border Avg.",$/MMBtu,Spot,Total natural gas,USA,Observed,"Natural Gas Intelligence and CME Group as compiled by Bloomberg, L.P.",Cal. Comp. Avg.*,Prices,USD,daily,weekly,9.0,2022-09-19 11:05:58.396325

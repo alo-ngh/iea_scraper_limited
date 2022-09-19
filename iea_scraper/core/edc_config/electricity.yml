@@ -1,0 +1,86 @@
+
+tolerated_flows:
+  Flow 1:
+    {'Demand': [nan, 'Estimate', 'Forecast'],
+     'Generation': [nan, 'Estimate', 'Forecast'],
+     'Generation Total': [nan, 'Estimate', 'Forecast'],
+     'Prices': [nan, 'Spot']
+     }
+  Flow 2:
+    {'Demand': [nan],
+     'Generation': [nan, 'Generation', 'Own use'],
+     'Generation Total': [nan],
+     'Prices': ['EUR', 'USD', 'JPY', 'TRY',
+                'AUD', 'MXN', 'IRR', 'ARS', 
+                'RUB', 'GBP', 'PHP', 'BGN','RON','PLN',
+                'SGD', 'UAH']
+     }
+  Flow 3:
+    {'Demand': [nan],
+     'Generation': [nan],
+     'Generation Total': [nan],
+     'Prices': [nan, 'Buyer', 'Seller', 'Minimum', 'Maximum']
+     }
+  Flow 4:
+    {'Demand': [nan],
+     'Generation': [nan],
+     'Generation Total': [nan],
+     'Prices': 'price_node_list'
+     }
+  Product:
+    {'Demand': ['ELE'],
+     'Generation': [
+            'Wind Onshore',
+            'Wind Offshore',
+            'Wind',
+            'Waste',
+            'Tide',
+            'Thermal',
+            'Solar',
+            'Solar Thermal',
+            'Solar PV',
+            'Peat',
+            'Other',
+            'Oil',
+            'Diesel',
+            'Nuclear',
+            'Natural Gas',
+            'Brown Coal',
+            'Hydro Pumped Storage',
+            'Hydro',
+            'Hydro Run-of-river',
+            'Hydro Reservoir',
+            'Hard Coal',
+            'Geothermal',
+            'Coal',
+            'Biomass',
+            'Cogeneration',
+            'Renewables',
+            'Other Renewables'],
+     'Generation Total': ['ELE'],
+     'Prices': ['ELE']
+     }
+
+tolerated_metrics: ['Demand', 'Generation', 'Generation Total', 'Prices']
+
+tolerated_columns: ['Export Date', 'local_date', 'local_datetime',
+                                  'utc_date', 'utc_datetime',
+                                  'Country', 'Region', 'Metric',
+                                  'Product', 'Source',
+                                  'Flow 1', 'Flow 2', 'Flow 3', 'Flow 4',
+                                  'Value']
+
+mandatory_columns: ['Country', 'Metric', 'Product', 'Source', 'Value']       
+
+date_columns: ['local_datetime', 'utc_datetime', 'local_date',
+                             'utc_date', 'Export Date']
+
+table_name: 'electricity_data'
+
+day_lags_intervals:
+  #interval between latest available date and date to scrape (e.g. (0,7) is from the last day available to 7 days before that day)
+  offset_now: [[0, 7]]
+  #interval between today and date to scrape (e.g. (10,15) is from 10 days before today to 15 days beofre today)
+  other: [[30, 37], [90, 97]]
+
+tolerated_countries: 'country_list'

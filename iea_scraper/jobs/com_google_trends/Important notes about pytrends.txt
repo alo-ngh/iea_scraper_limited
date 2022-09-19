@@ -1,0 +1,10 @@
+The Pytrends library has a mistake.
+
+Make sure you:
+1. open the pytrends\requests.py file
+2. Got to the _get_data function
+3. Modify:
+---response = s.get(url, timeout=self.timeout, cookies=self.cookies,
+                             **kwargs, **self.requests_args)
+by ---> s.get(url, timeout=self.timeout, cookies=self.cookies,
+                             **kwargs)

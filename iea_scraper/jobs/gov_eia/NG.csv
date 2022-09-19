@@ -1,0 +1,5 @@
+provider,flow,area,source,product,frequency,unit,detail,series_id,description,name
+US_EIA,PRICE,USA,gov_eia_NG,NATGAS,Daily,USD,NG.RNGWHHD.D,NG.RNGWHHD.D,"Henry Hub Natural Gas Spot Price, Daily (Dollars per Million Btu)","Henry Hub Natural Gas Spot Price, Daily"
+US_EIA,PRICE,USA,gov_eia_NG,NATGAS,Weekly,USD,NG.RNGWHHD.W,NG.RNGWHHD.W,"Henry Hub Natural Gas Spot Price, Weekly (Dollars per Million Btu)","Henry Hub Natural Gas Spot Price, Weekly"
+US_EIA,PRICE,USA,gov_eia_NG,NATGAS,Monthly,USD,NG.RNGWHHD.M,NG.RNGWHHD.M,"Henry Hub Natural Gas Spot Price, Monthly (Dollars per Million Btu)","Henry Hub Natural Gas Spot Price, Monthly"
+US_EIA,PRICE,USA,gov_eia_NG,NATGAS,Annual,USD,NG.RNGWHHD.A,NG.RNGWHHD.A,"Henry Hub Natural Gas Spot Price, Annual (Dollars per Million Btu)","Henry Hub Natural Gas Spot Price, Annual"

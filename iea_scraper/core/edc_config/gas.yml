@@ -1,0 +1,99 @@
+
+tolerated_flows:
+
+  Flow 1:
+    {'Demand': [nan, 'Industry', 'Residential and commercial', 'Power and heat generation', 'Transportation', 'Distribution losses', 'Non-energy use', 'Other consumption sectors', 'Residential', 'Transport (including pipeline)', 'Delivered to consumers', 'Power generation', 'Commercial', 'Pipeline transportation'],
+     'Production': [nan],
+     'Trade': ['Entry', 'Exit'],
+     'Prices': ['ALL'],
+     'Storage': [nan, 'Estimate', 'Forecast']
+    }
+  Flow 2:
+    {'Demand': [nan],
+     'Production': [nan],
+     'Trade': ['ALL'],
+     'Prices': ['ALL'],
+     'Storage': ['nan', 'Depleted Oil and Gas Reservoir', 'Aquifer', 'Salt Cavity', 'Cushion', 'Peak Output']
+     }
+  Flow 3:
+    {'Demand': [nan],
+     'Production': ['Marketed production'],
+     'Trade': 'gas_country_partner_list',
+     'Prices': [nan, 'Spot', '1M','2M', '3M', '4M'],
+     'Storage': [nan]
+     }
+  Flow 4:
+    {'Demand': [nan],
+     'Production': [nan],
+     'Trade': ['nan'],
+     'Prices': ['ALL'],
+     'Storage': [nan]
+     }
+  Flow 5:
+    {'Demand': [nan],
+     'Production': [nan],
+     'Trade': ['nan', 'ST', 'Short-Term', 'Long-Term'],
+     'Prices': [nan],
+     'Storage': [nan]
+     }
+  Flow 6:
+    {'Demand': [nan],
+     'Production': [nan],
+     'Trade': ['nan'],
+     'Prices': [nan],
+     'Storage': [nan]
+     }
+  Flow 7:
+    {'Demand': [nan],
+     'Production': [nan],
+     'Trade': ['nan'],
+     'Prices': [nan],
+     'Storage': [nan]
+     }
+  Flow 8:
+    {'Demand': [nan],
+     'Production': [nan],
+     'Trade': ['nan'],
+     'Prices': [nan],
+     'Storage': [nan]
+     }
+  Product:
+    {'Demand': ['Total natural gas', 'Pipeline natural gas', 'Liquefied natural gas', 'Gaseous natural gas'],
+     'Production': ['Total natural gas', 'Pipeline natural gas', 'Liquefied natural gas', 'Gaseous natural gas'],
+     'Trade': ['Total natural gas', 'Pipeline natural gas', 'Liquefied natural gas', 'Gaseous natural gas'],
+     'Prices': ['Total natural gas', 'Pipeline natural gas', 'Liquefied natural gas', 'Gaseous natural gas'],
+     'Storage': ['Total natural gas', 'Pipeline natural gas', 'Liquefied natural gas', 'Gaseous natural gas']
+     }
+  Type:
+    {'Demand': ['Observed', 'Estimated', 'Forecast'],
+    'Production': ['Observed', 'Estimated', 'Forecast'],
+    'Trade': ['Observed', 'Estimated', 'Forecast'],
+    'Prices': ['Observed', 'Estimated', 'Forecast'],
+    'Storage': ['Observed', 'Estimated', 'Forecast']
+     }
+
+
+tolerated_metrics: ['Demand', 'Production', 'Trade', 'Prices', 'Storage']
+
+tolerated_columns: ['Export Date', 'local_date', 'local_datetime', 'data_frequency',
+                                  'utc_date', 'utc_datetime', 'source_frequency',
+                                  'Country', 'Region', 'Metric',
+                                  'Product', 'Source', 'Unit', 'Value', 'Type',
+                                  'Flow 1', 'Flow 2', 'Flow 3', 'Flow 4',
+                                  'Flow 5', 'Flow 6', 'Flow 7', 'Flow 8',]
+
+mandatory_columns: ['Country', 'Metric', 'Product', 'Source', 'Unit', 'Value']       
+
+date_columns: ['local_datetime', 'utc_datetime', 'local_date',
+                             'utc_date', 'Export Date']
+
+table_name: 'gas_data'
+
+day_lags_intervals:
+  #interval between latest available date and date to scrape (e.g. (0,7) is from the last day available to 7 days before that day)
+  offset_now: [[0, 7]]
+  #interval between today and date to scrape (e.g. (10,15) is from 10 days before today to 15 days beofre today)
+  other: [[30, 37], [90, 97]]
+
+tolerated_countries: 'gas_country_partner_list'
+
